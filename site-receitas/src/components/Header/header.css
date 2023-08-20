@@ -1,0 +1,84 @@
+header {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-color: #281f20;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  transition: background-color 0.3s ease;
+}
+
+.header-container {
+  justify-content: flex-start;
+}
+
+.header-content-right {
+  display: flex;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav ul li {
+  display: inline;
+}
+
+.routes {
+  color: #fcf6d2;
+  text-decoration: none;
+  font-size: 22px;
+  padding-right: 10px;
+}
+
+.routes-icon {
+  color: #fcf6d2;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 35px;
+}
+
+.routes-titulo{
+  color: #fcf6d2;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.routes:hover {
+  color: #fbe2b9;
+}
+
+body::-webkit-scrollbar {
+  width: 10px; 
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #281d20; 
+  border-radius: 5px; 
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: #1e171a; 
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #252121; 
+}
+
+body::-webkit-scrollbar-track:hover {
+  background-color: #252121; 
+}

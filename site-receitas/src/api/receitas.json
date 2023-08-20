@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bolo de Chocolate",
+    "ingredientes": ["chocolate", "farinha", "açúcar", "ovos", "leite", "fermento"],
+    "instrucoes": "1. Preaqueça o forno a 180°C.\n2. Em uma tigela, misture a farinha e o fermento.\n3. Em outra tigela, derreta o chocolate e misture com o açúcar.\n4. Adicione os ovos um a um à mistura de chocolate, mexendo bem.\n5. Alternadamente, adicione a mistura de farinha e o leite à mistura de chocolate, mexendo até ficar homogêneo.\n6. Despeje a massa em uma forma untada e asse por 30 a 35 minutos, ou até que um palito saia limpo ao ser inserido no centro.\n7. Deixe esfriar antes de servir.",
+    "url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+  {
+    "id": 2,
+    "titulo": "Salada Caesar",
+    "ingredientes": ["alface", "frango", "croutons", "queijo parmesão", "molho Caesar"],
+    "instrucoes": "1. Lave e seque bem as folhas de alface.\n2. Tempere o frango com sal e pimenta, grelhe até que esteja cozido e corte em tiras.\n3. Em uma tigela grande, misture as folhas de alface, o frango grelhado, os croutons e o queijo parmesão.\n4. Regue a salada com o molho Caesar e misture bem.\n5. Sirva imediatamente.",
+    "url": "https://images.unsplash.com/photo-1510629954389-c1e0da47d414?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "5",
+    "tipo": "Salada"
+  },
+  {
+    "id": 3,
+    "titulo": "Risoto de Cogumelos",
+    "ingredientes": ["arroz arbóreo", "cogumelos", "cebola", "caldo de legumes", "vinho branco", "manteiga", "queijo parmesão"],
+    "instrucoes": "1. Aqueça o caldo de legumes em uma panela e mantenha em fogo baixo.\n2. Em outra panela, aqueça a manteiga e refogue a cebola até ficar transparente.\n3. Adicione os cogumelos e cozinhe até que estejam dourados.\n4. Acrescente o arroz arbóreo à panela e refogue por alguns minutos.\n5. Adicione o vinho branco e mexa até que ele seja absorvido pelo arroz.\n6. Comece a adicionar conchas do caldo de legumes quente, mexendo constantemente e adicionando mais caldo conforme necessário, até que o arroz esteja cozido e cremoso.\n7. Desligue o fogo e misture o queijo parmesão e uma colher de manteiga até ficar bem incorporado.\n8. Sirva imediatamente, finalizando com um pouco mais de queijo parmesão por cima.",
+    "url": "https://images.unsplash.com/photo-1595908129746-57ca1a63dd4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+  {
+    "id": 4,
+    "titulo": "Salmão Grelhado",
+    "ingredientes": ["salmão", "azeite", "limão", "ervas frescas", "sal", "pimenta"],
+    "instrucoes": "1. Pré-aqueça a grelha ou churrasqueira em fogo médio-alto.\n2. Tempere o salmão com sal, pimenta e ervas frescas de sua escolha.\n3. Regue o salmão com um pouco de azeite e suco de limão.\n4. Coloque o salmão na grelha, com o lado da pele para baixo.\n5. Grelhe por cerca de 4-5 minutos de cada lado, ou até que o salmão esteja cozido e desfie facilmente com um garfo.\n6. Retire da grelha e regue com um pouco mais de azeite e limão antes de servir.",
+    "url": "https://images.unsplash.com/photo-1611599537845-1c7aca0091c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+    {
+    "id": 5,
+    "titulo": "Macarrão à Carbonara",
+    "ingredientes": ["macarrão espaguete", "ovos", "queijo parmesão", "pancetta", "pimenta preta"],
+    "instrucoes": "1. Cozinhe o macarrão em água com sal até ficar al dente.\n2. Enquanto o macarrão cozinha, frite a pancetta em uma frigideira até ficar crocante.\n3. Em uma tigela, misture os ovos, queijo parmesão ralado e pimenta preta.\n4. Escorra o macarrão e misture imediatamente com a mistura de ovos e queijo, adicionando a pancetta.\n5. A mistura de ovos irá cozinhar com o calor residual do macarrão. Certifique-se de mexer bem para obter uma textura cremosa.\n6. Sirva imediatamente, polvilhado com mais queijo e pimenta preta.",
+    "url": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+  {
+    "id": 6,
+    "titulo": "Tacos de Carne",
+    "ingredientes": ["peitos de Carne", "tempero para taco", "tortilhas", "alface", "tomate", "queijo cheddar", "creme de leite"],
+    "instrucoes": "1. Tempere os peitos de Carne com o tempero para taco.\n2. Grelhe ou cozinhe os peitos de Carne até que estejam completamente cozidos.\n3. Corte o Carne em tiras finas.\n4. Aqueça as tortilhas em uma frigideira ou micro-ondas.\n5. Monte os tacos com alface, Carne grelhado, tomate picado, queijo cheddar e creme de leite.\n6. Dobre as tortilhas e sirva imediatamente.",
+    "url": "https://plus.unsplash.com/premium_photo-1661776866702-d671127c2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+  {
+    "id": 7,
+    "titulo": "Massa Alfredo",
+    "ingredientes": ["fettuccine", "manteiga", "creme de leite", "queijo parmesão", "sal", "pimenta"],
+    "instrucoes": "1. Cozinhe o fettuccine em água com sal até ficar al dente.\n2. Em uma panela, derreta a manteiga em fogo médio.\n3. Adicione o creme de leite à panela e deixe aquecer.\n4. Misture o queijo parmesão ralado na mistura de creme até derreter e engrossar levemente.\n5. Tempere com sal e pimenta a gosto.\n6. Escorra o fettuccine e misture com o molho Alfredo.\n7. Sirva imediatamente, polvilhado com mais queijo parmesão.",
+    "url": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  },
+  {
+    "id": 8,
+    "titulo": "Sanduíche BLT",
+    "ingredientes": ["bacon", "alface", "tomate", "pão de forma", "maionese"],
+    "instrucoes": "1. Cozinhe o bacon até que fique crocante e reserve.\n2. Lave e seque as folhas de alface e fatie os tomates.\n3. Torre as fatias de pão de forma.\n4. Monte o sanduíche: espalhe maionese em uma fatia de pão, adicione alface, tomate e bacon.\n5. Cubra com outra fatia de pão e pressione levemente.\n6. Corte o sanduíche ao meio e sirva.",
+    "url": "https://images.unsplash.com/photo-1532903460337-0d1b9a71b2c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "estrelas": "4",
+    "tipo": "Sobremesa"
+  }
+]
