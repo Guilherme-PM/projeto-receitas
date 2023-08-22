@@ -78,12 +78,8 @@ function Home() {
           <Container>
             <Row>
               <Col xs={12} md={6} className='imagem'>
+                <h3 className='titulo'>{selectedRecipe.titulo}</h3>
                 <img src={selectedRecipe.url} alt={selectedRecipe.titulo} className="modal-image"/>
-              </Col>
-              <Col xs={12} md={6} className="modal-content">
-                <h3>{selectedRecipe.titulo}</h3>
-                <p className="recipe-type">{selectedRecipe.tipo}</p>
-                <p className="recipe-description">{selectedRecipe.descricao}</p>
                 <div className="star-rating">
                   {Array.from({ length: 5 }).map((_, index) => (
                     index < selectedRecipe.estrelas ? (
@@ -93,6 +89,10 @@ function Home() {
                     )
                   ))}
                 </div>
+              </Col>
+              <Col xs={12} md={6} className="modal-content">
+                <p className="recipe-type">{selectedRecipe.tipo}</p>
+                <p className="recipe-description">{selectedRecipe.descricao}</p>
                 <p className='itens'>Ingredientes: {selectedRecipe.ingredientes.join(", ")}</p>
                 <hr/>
                 <strong>Instruções:</strong>
