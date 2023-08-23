@@ -9,6 +9,7 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   display: flex;
+  height: 70px;
   align-items: center;
   justify-content: space-between;
   position: fixed;

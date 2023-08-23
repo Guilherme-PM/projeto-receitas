@@ -14,8 +14,8 @@ function Header(){
             <div className='header-routes'>
               <nav>
                 <ul>
-                  <li><Link to="/" className='routes'>Página Inicial |</Link></li>
-                  <li><Link to="/receitas" className='routes'>Receitas</Link></li>
+                  <li><Link to="/receitas" className='routes'>Página Inicial |</Link></li>
+                  <li><Link to="/adicionarReceitas" className='routes'>Adicionar Receitas</Link></li>
                 </ul>
               </nav>
             </div>

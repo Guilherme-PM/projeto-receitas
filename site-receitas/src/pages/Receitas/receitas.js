@@ -79,6 +79,7 @@ function Home() {
             <Row>
               <Col xs={12} md={6} className='imagem'>
                 <h3 className='titulo'>{selectedRecipe.titulo}</h3>
+                <p className="recipe-type">{selectedRecipe.tipo}</p>
                 <img src={selectedRecipe.url} alt={selectedRecipe.titulo} className="modal-image"/>
                 <div className="star-rating">
                   {Array.from({ length: 5 }).map((_, index) => (
@@ -91,7 +92,6 @@ function Home() {
                 </div>
               </Col>
               <Col xs={12} md={6} className="modal-content">
-                <p className="recipe-type">{selectedRecipe.tipo}</p>
                 <p className="recipe-description">{selectedRecipe.descricao}</p>
                 <p className='itens'>Ingredientes: {selectedRecipe.ingredientes.join(", ")}</p>
                 <hr/>

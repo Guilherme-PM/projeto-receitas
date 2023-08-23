@@ -1,5 +1,5 @@
 .background-container {
-  background-color: #f5f5f5;
+  background-color: #fbe2b9;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -7,7 +7,7 @@
 }
 
 .content {
-  background-color: #ffffff;
+  background-color: #faebd2;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
@@ -140,7 +140,7 @@ h2 {
 
 .modal {
   background-color: white;
-  padding: 20px;
+  padding: 10px;
   border-radius: 8px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
@@ -203,7 +203,7 @@ h2 {
 }
 
 .modal-image {
-  width: 60%;
+  width: 50%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 10px;
@@ -237,5 +237,6 @@ h2 {
 
 .instrucoes {
   margin-bottom: 10px;
+  font-size: 14px;
   text-align: justify;
 }

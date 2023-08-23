@@ -1,0 +1,42 @@
+.campo-input {
+    background-color: #281f20;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 25%;
+    height: 25px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-bottom: 10px;
+}
+
+.campo-input:hover {
+    background-color: #281d20;
+}
+
+.caixa {
+    padding: 15px;
+    color: #281d20;
+}
+
+.view-details-button2 {
+    background-color: #281f20;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 28%;
+    height: 45px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .view-details-button2:hover {
+    background-color: #281d20;
+    transform: scale(1.05);
+  }
